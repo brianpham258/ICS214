@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+D:\Data\Camosun\ICS214\labs\lab1\Lab1\Lab1\lab1.cpp(7,14): error C3861:  'promptUserForRange': identifier not found
+D:\Data\Camosun\ICS214\labs\lab1\Lab1\Lab1\lab1.cpp(10,11): error C3861:  'pickRandomNumberInRange': identifier not found
+D:\Data\Camosun\ICS214\labs\lab1\Lab1\Lab1\lab1.cpp(13,14): error C3861:  'promptUserForGuess': identifier not found
+D:\Data\Camosun\ICS214\labs\lab1\Lab1\Lab1\lab1.cpp(23,15): error C3861:  'promptUserForGuess': identifier not found

@@ -1,0 +1,4 @@
+﻿  GameBoard.cpp
+D:\Data\Camosun\ICS214\labs\lab7\L7Q1\L7Q1\GameBoard.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\Data\Camosun\ICS214\labs\lab7\L7Q1\L7Q1\GameBoard.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+  L7Q1.vcxproj -> D:\Data\Camosun\ICS214\labs\lab7\L7Q1\Debug\L7Q1.exe

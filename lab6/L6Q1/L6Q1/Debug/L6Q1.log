@@ -1,0 +1,4 @@
+﻿  Tetromino.cpp
+D:\Data\Camosun\ICS214\labs\lab6\L6Q1\L6Q1\Tetromino.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+D:\Data\Camosun\ICS214\labs\lab6\L6Q1\L6Q1\Tetromino.cpp(66,22): warning C4018: '<': signed/unsigned mismatch
+  L6Q1.vcxproj -> D:\Data\Camosun\ICS214\labs\lab6\L6Q1\Debug\L6Q1.exe

@@ -1,0 +1,4 @@
+﻿  TetrisGame.cpp
+D:\Data\Camosun\ICS214\labs\lab8\L8Q1\L8Q1\TetrisGame.cpp(227,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Data\Camosun\ICS214\labs\lab8\L8Q1\L8Q1\TetrisGame.cpp(227,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  L8Q1.vcxproj -> D:\Data\Camosun\ICS214\labs\lab8\L8Q1\Debug\L8Q1.exe
